@@ -1,7 +1,7 @@
 
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
-import { Menu } from "./Menu";
+import { Menu } from "./src/screens/Menu";
 import { Publisher } from "./Publisher";
 import { Viewer } from "./Viewer";
 
